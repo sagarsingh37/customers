@@ -1,7 +1,5 @@
 
 {
   "posts":[
-    {"name":"Sagar Singh", "gender":"male", "email":"mesagarsingh37@gmail.com", "address":"LIC City", "city":"bilaspur", "state":"chhattisgarh", "country":"india", "hobbies":["singing","travelling"]},
-    {"name":"Irshad Alam", "gender":"male", "email":"anonymous@gmail.com", "address":"Geetanjali City", "city":"bilaspur", "state":"chhattisgarh", "country":"india", "hobbies":["travelling"]}
   ]
 }
